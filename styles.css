@@ -13,3 +13,11 @@ body {
 .container {
     display: flex;
 }
+
+.left-column {
+    margin: 25px;
+}
+
+.right-column {
+    margin: 25px;
+}
